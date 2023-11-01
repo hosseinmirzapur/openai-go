@@ -29,7 +29,7 @@ This is a command-line interface (CLI) application that utilizes the OpenAI APIs
 2. Navigate to the project directory:
 
    ```bash
-   cd your-cli-app
+   cd openai-go
 
 
    ```

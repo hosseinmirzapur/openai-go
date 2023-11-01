@@ -44,7 +44,7 @@ This is a command-line interface (CLI) application that utilizes the OpenAI APIs
 
 4. Obtain an API key from OpenAI by signing up on their website (https://openai.com).
 
-5. Set the API key as an environment variable: (or create a .env file)
+5. Set the API key as an environment variable: (or create an .env file and use godotenv)
 
    ```bash
    export OPENAI_API_KEY=your-api-key

@@ -1,5 +1,3 @@
-Sure! Here's an example of a README.md file for your CLI app developed with Golang:
-
 # CLI App for OpenAI Services
 
 This is a command-line interface (CLI) application that utilizes the OpenAI APIs to provide chat completion, image generation, and audio transcription services. It allows you to interact with the OpenAI models programmatically through a simple and convenient CLI interface.
